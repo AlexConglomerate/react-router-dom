@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../course-project/.idea/course-project.iml" filepath="$PROJECT_DIR$/../course-project/.idea/course-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/react-router-dom.iml" filepath="$PROJECT_DIR$/.idea/react-router-dom.iml" />
     </modules>
   </component>
